@@ -4,16 +4,40 @@ GENERAL STYLES
 
 
 
-
 /* ================================================================================
 NAVIGATION
 ================================================================================ */
 
 .navbar {
   text-align: center;
+  background-color: transparent;
+  position: fixed;
+}
+
+
+
+.nav-link,
+.navbar-brand {
+  color: white;
 }
 
 .nav-item {
   padding: .6rem;
   cursor: pointer;
+}
+
+/* ================================================================================
+MAIN
+================================================================================ */
+
+/* ================================================================================
+JUMBOTRON
+================================================================================ */
+
+.jumbotron {
+  background-image: url("../images/Majoras-Mask-Image.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 100vh;
 }
