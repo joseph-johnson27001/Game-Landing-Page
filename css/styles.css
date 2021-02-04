@@ -14,8 +14,6 @@ NAVIGATION
   position: fixed;
 }
 
-
-
 .nav-link,
 .navbar-brand {
   color: white;
@@ -36,8 +34,10 @@ JUMBOTRON
 
 .jumbotron {
   background-image: url("../images/Majoras-Mask-Image.jpg");
-  background-size: cover;
+  background-size: stretch;
   background-position: center;
   color: white;
   height: 100vh;
+  padding-top: 100px;
+  padding-left: 50px;
 }
