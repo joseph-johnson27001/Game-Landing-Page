@@ -7,16 +7,17 @@ GENERAL STYLES
 /* ================================================================================
 NAVIGATION
 ================================================================================ */
+
 .navbar {
   text-align: left;
   background-color: transparent;
   position:fixed;
   top:0;
+  margin-left: 1%;
 }
 
 nav .container {
   margin: auto;
-  max-width: 1200px;
 }
 
 .nav-link,
@@ -25,12 +26,8 @@ nav .container {
 }
 
 .nav-item {
-
   cursor: pointer;
 }
-
-
-
 
 /* ================================================================================
 MAIN
@@ -40,12 +37,13 @@ MAIN
 JUMBOTRON
 ================================================================================ */
 
-h1,
+h1 {
+  font-weight: 400;
+}
+
 h4 {
   font-weight: 100;
 }
-
-
 
 .jumbotron {
   background-image: url("../images/Majoras-Mask-Image.jpg");
@@ -56,4 +54,9 @@ h4 {
   padding-top: 100px;
   padding-left: 50px;
   margin-bottom: 0;
+}
+
+#introduction-container {
+  margin-top: 20%;
+  margin-left: 3%;
 }
