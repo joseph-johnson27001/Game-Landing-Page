@@ -16,6 +16,10 @@ NAVIGATION
   margin-left: 1%;
 }
 
+#navbarNav {
+  text-align: right;
+}
+
 nav .container {
   margin: auto;
 }
@@ -39,6 +43,9 @@ JUMBOTRON
 
 h1 {
   font-weight: 400;
+  color: orange;
+  font-size: 2.5rem;
+  margin: .5rem 0;
 }
 
 h4 {
