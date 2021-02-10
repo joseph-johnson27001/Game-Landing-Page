@@ -8,20 +8,25 @@ GENERAL STYLES
 NAVIGATION
 ================================================================================ */
 
+nav {
+  width: 100%;
+}
+
+
+.navbar-container {
+  width: 100%;
+  margin-right: 10px;
+}
+
 .navbar {
   text-align: left;
+  position: fixed;
   background-color: transparent;
-  position:fixed;
-  top:0;
-  margin-left: 1%;
+  top: 0;
 }
 
-#navbarNav {
-  text-align: right;
-}
-
-nav .container {
-  margin: auto;
+.navbar-brand {
+  margin-left: 25px;
 }
 
 .nav-link,
