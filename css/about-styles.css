@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("../images/Breath-of-the-wild-background.jpg");
+  background-size: stretch;
+  background-position: center;
+  color: white;
+  height: 100vh;
+  padding-top: 100px;
+  padding-left: 50px;
+  margin-bottom: 0;
+}
