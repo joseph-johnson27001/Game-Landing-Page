@@ -10,13 +10,13 @@ NAVIGATION
 
 nav {
   width: 100%;
-  margin-top: .5rem;
 }
 
 
 .navbar-container {
   width: 100%;
   margin-right: 80px;
+  padding-top: .5rem;
 }
 
 .navbar {
@@ -27,6 +27,7 @@ nav {
 }
 
 .navbar-brand {
+    padding-top: .5rem;
   margin-left: 80px;
 }
 
@@ -68,9 +69,4 @@ h4 {
   padding-top: 100px;
   padding-left: 50px;
   margin-bottom: 0;
-}
-
-#introduction-container {
-  margin-top: 22%;
-  margin-left: 3%;
 }
