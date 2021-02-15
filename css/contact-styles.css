@@ -4,7 +4,16 @@
   background-position: center;
   color: white;
   height: 100vh;
-  padding-top: 100px;
   padding-left: 50px;
   margin-bottom: 0;
+}
+
+h1 {
+  color: black;
+}
+
+.btn-warning {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
 }
