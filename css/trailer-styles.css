@@ -8,3 +8,13 @@
   padding-left: 50px;
   margin-bottom: 0;
 }
+
+h1 {
+  color: #D15471;
+}
+
+.btn-custom {
+  color: white;
+  background-color: #1C0033;
+  border: 1px solid #D15471;
+}
