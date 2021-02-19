@@ -18,3 +18,8 @@ h1 {
   background-color: #1C0033;
   border: 1px solid #D15471;
 }
+
+.btn-custom:hover {
+  color: white;
+  background-color: #D15471;
+}
