@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url("../images/ganon-background.jpg");
+  background-size: stretch;
+  background-position: center;
+  color: white;
+  height: 100vh;
+  padding-left: 50px;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: black;
+}
