@@ -1,6 +1,6 @@
 .jumbotron {
-  background-image: url("../images/ganon-background.jpg");
-  background-size: stretch;
+  background-image: url("../images/dark-link-background.jpg");
+  background-size: cover;
   background-position: center;
   color: white;
   height: 100vh;
